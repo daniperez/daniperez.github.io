@@ -1,8 +1,19 @@
-remote_theme: broccolini/swiss
-theme_color: yellow
-title: Swiss Jekyll Theme
-description: A bold typographic theme inspired by Swiss design.
+title: Dani Perez @ Github 
+description: >- # this means to ignore newlines until "baseurl:"
+  <description TBC>  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: jekyll # the GitHub repo name for your project
-github_username: jekyll
+github_username:  daniperez
+
+markdown: kramdown
+
+remote_theme:  chesterhow/tale
+
+permalink:  /:year-:month-:day/:title
+paginate:   5
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+
