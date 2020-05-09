@@ -1,1 +1,8 @@
-remote_theme: jekyll/minima@v2.5.1  
+remote_theme: broccolini/swiss
+theme_color: yellow
+title: Swiss Jekyll Theme
+description: A bold typographic theme inspired by Swiss design.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_repo: jekyll # the GitHub repo name for your project
+github_username: jekyll
