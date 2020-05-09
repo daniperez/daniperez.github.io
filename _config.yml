@@ -1,0 +1,6 @@
+remote_theme: niklasbuschmann/contrast@v2.8
+
+markdown: kramdown
+
+plugins:
+  - jekyll-remote-theme
