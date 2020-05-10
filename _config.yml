@@ -1,6 +1,6 @@
 title: Dani Perez @ Github 
 description: >- # this means to ignore newlines until "baseurl:"
-  <description TBC>  
+  Dani Perez' corner in Github.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  daniperez
@@ -10,6 +10,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
+  - jekyll-feed
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 search_full_content: true
@@ -23,3 +24,10 @@ google_fonts:
 permalink: /:categories/:title/
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
+
+feed:
+  path: atom.xml
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fa-lg fas fa-rss-square
