@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CMake-enabled libraries (III)"
-date: 2016-02-25 08:00:00 +0200
+date: 2016-04-25 08:00:00 +0200
 # categories: 
 tags: [cmake, external projects, multi-project, multi-library, add_subdirectories]
 ---
