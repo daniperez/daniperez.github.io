@@ -25,8 +25,12 @@ permalink: /:categories/:title/
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
+paginate: 4
+paginate_path: /page:num/
+
 feed:
   path: atom.xml
+
 footer_links:
   - title: GitHub
     url: https://github.com/daniperez
