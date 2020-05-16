@@ -1,5 +1,5 @@
 ---
-title: Project highlights 
+title: Projects
 layout: page 
 permalink: /projects/
 sitemap: true
