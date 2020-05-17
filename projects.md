@@ -9,7 +9,7 @@ sitemap: true
 
 # Re:work epub
 
-I liked Google's content in https://rework.withgoogle.com so much , that I created an epub
+I liked Google's content in [https://rework.withgoogle.com](https://rework.withgoogle.com) so much,  that I created an epub
 out of it. The web scrapper could be easily adapted for other webpages.
 
 [https://github.com/daniperez/rework](https://github.com/daniperez/rework)
