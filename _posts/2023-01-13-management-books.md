@@ -7,7 +7,7 @@ tags: [management, parenting, kids]
 
 I've read a couple of management books. However, the books that have had a greater impact on me, as a manager, happen to be ... parenting books. 
 
-Don't get me wrong: I don't advocate for managing people as if they were kids. But coincidentally or not, there's a big overlap between dealing effectively with kids and dealing effectively with adults (especially in the workplace): showing empathy, active listening, develop autonomy, avoid being judgmental, how to praise and how to provide negative feedback, ... the list goes on.
+Don't get me wrong: I don't advocate for managing people as if they were kids. But coincidentally or not, there's a big overlap between dealing effectively with kids and dealing effectively with adults (especially in the workplace): showing empathy, active listening, develop autonomy, avoid being judgemental, how to praise and how to provide negative feedback, ... the list goes on.
 
 I can highly recommend [How to Talk So Kids Will Listen & Listen So Kids Will Talk](https://www.goodreads.com/book/show/769016.How_to_Talk_So_Kids_Will_Listen_Listen_So_Kids_Will_Talk)
 and [The Whole-Brain Child](https://www.goodreads.com/book/show/10353369-the-whole-brain-child). 
