@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Management books"
+date: 2023-01-13 08:00:00 +0200
+tags: [management, parenting, kids]
+---
+
 I've read a couple of management books. However, the books that have had a greater impact on me, as a manager, happen to be ... parenting books. 
 
 Don't get me wrong: I don't advocate for managing people as if they were kids. But coincidentally or not, there's a big overlap between dealing effectively with kids and dealing effectively with adults (especially in the workplace): showing empathy, active listening, develop autonomy, avoid being judgmental, how to praise and how to provide negative feedback, ... the list goes on.
