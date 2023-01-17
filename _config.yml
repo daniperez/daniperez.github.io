@@ -14,7 +14,7 @@ plugins:
 
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 search_full_content: true
-skin: "/assets/css/skins/light.css"
+skin: "/assets/css/skins/dark.css"
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
