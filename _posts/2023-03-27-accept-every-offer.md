@@ -3,10 +3,10 @@ layout: post
 title: "Accept every offer"
 date: 2023-03-27 08:00:00 +0200
 tags: [management, communication, improv, theater, team work, productivity]
-excerpt: Since reading the [Re:work guides](https://rework.withgoogle.com/guides/) from Google (if not before) I've been very interested in what makes some teams to stall whereas others keep making progress. And, related, why some teams collaborate better than others?
+excerpt: Something I find fascinating and I ask myself is why some people seem to get stuck forever with work, whereas others keep making progress. And, related, why some people collaborate better/more with colleagues than others?
 ---
 
-> **TL;TR:** improvisation theater can teach us some tricks about how better collaborate and communicate with people. I try to explain that below but you'd better watch [the explanation of Randy Nelson, ex-Pixar](https://www.youtube-nocookie.com/watch?v=QhXJe8ANws8).
+> **TL;TR:** Improvisation theater can teach us some tricks about how better collaborate and communicate with people. I try to explain that below but you'd better watch [the explanation of Randy Nelson, ex-Pixar](https://www.youtube-nocookie.com/watch?v=QhXJe8ANws8).
 
 Something I find fascinating and I ask myself is why some people seem to get
 stuck forever with work, whereas others keep making progress. And, related, why
