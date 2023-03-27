@@ -59,5 +59,5 @@ PS: in the spirit of improvisation, I didn't check the correctness of this text 
 
 PS2: on the improv subject, I enjoyed a lot the book _"Impro: Improvisation and the Theatre"_ by Keith Johnstone (Ed. Methuen Drama). I looked up the actual title of the book and I was sad to learn that the author passed away a couple of days ago. He can go in peace, his legacy is huge.
 
-[^look-good]: One of my improv acquaintances also refers to that informally as _"always make your partner look good"_, which is some very good, generally applicable advice.
+[^look-good]: One of my improv acquaintances also refers to that informally as _"always make your partner look good"_, which is some very good, generally applicable advice. It's also mentioned in the video above.
 [^difficult-conversations]: Bruce Patton, Douglas Stone, Sheila Heen. _"Difficult Conversations: How to discuss what matters most"_, Penguin, 2021
