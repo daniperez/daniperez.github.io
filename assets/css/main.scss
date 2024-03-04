@@ -1,0 +1,45 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+$min-font-size: 22px !default;
+$max-font-size: 24px !default;
+@charset "utf-8";
+
+ol.big-bullets { 
+    list-style: none; 
+    counter-reset: num; 
+    display: table;
+}
+
+ol.big-bullets li { 
+    counter-increment: num; 
+    display: table-row;
+} 
+
+ol.big-bullets li::before {
+    padding-right: 0.2em;
+    content: counter(num) ". ";
+    display: table-cell;
+    font-weight: bold; 
+    font-size: 32px;
+    color: #00adb5;
+}
+
+a.header-link {
+    padding-left: 0.2em;
+    font-size: 75%;
+    text-decoration: none;
+    height: 100%;
+    text-align: center;
+}
+
+.toc-wrapper {
+  padding: 0.5em;
+}
+
+@import "so-simple";
+
+
+
